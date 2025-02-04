@@ -1,0 +1,6 @@
+# _config.yml file for Jekyll
+source: .         # Use the current folder as the source folder
+destination: ./_site  # Where the generated site will be stored
+
+sass:
+  style: compressed   # This compresses your SCSS output
